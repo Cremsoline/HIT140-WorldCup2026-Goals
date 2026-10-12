@@ -1,0 +1,9 @@
+,coef,p_value,std_coef
+opp_wc_apps_since1998,-0.1424,0.0001,-0.3634
+team_market_value,0.0007,0.0377,0.3116
+opp_conceded_pg10,0.6644,0.0015,0.2812
+team_fail_to_score_rate,-2.5008,0.0737,-0.2093
+team_fifa_points,0.0005,0.6039,0.0847
+opp_gpg_competitive,0.1429,0.3905,0.0741
+team_goals_pg_last10,0.0587,0.7377,0.0394
+rest_days,0.002,0.9043,0.0103
